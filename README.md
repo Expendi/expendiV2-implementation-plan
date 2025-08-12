@@ -13,11 +13,21 @@ This repository contains the comprehensive implementation plan for Expendi V2, a
 ### Backend 
 **[Backend Scaling & Enhancement Plan](./EXPENDI_V2_BACKEND_SCALING_PLAN.md)**
 
+### App Design
+**[Figma App Design](https://www.figma.com/design/eYOHhrn0ANQ7soih5ofJ64/Expendi?node-id=0-1&t=GlJCHLM3bV5aJ1BN-1)**
+
+*Request Access*
+
 
 ## Document Structure
 
 - **Smart Contract Plan**: Technical architecture, deployment strategy, and revenue model
 - **Backend Plan**: AI services, analytics infrastructure, and real-time features
+
+- **New App Design**: High fidelity wireframes of the mobile app
+
+
+
 
 
 *Last Updated: August 2025*
